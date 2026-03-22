@@ -26,7 +26,7 @@ This dashboard transforms raw carbon emission data into **interactive visual ins
 # 📸 Dashboard Preview
 
 <p align="center">
-  <img src="Images/dashboard.png" width="700">
+  <img src="MS-ELEVATE-POWER-BI-PROJECT-/>DATA INTERFACE -1ST PIC" width="700">
 </p>
 
 ---
